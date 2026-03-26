@@ -62,14 +62,7 @@ LLM_API_KEY="your_api_key_here"
 5. Run the Application
 Bash
 streamlit run app.py
-📊 Dashboards & Previews
-(Add screenshots of your project here once you upload them to the repository)
-
-Power BI Dashboard Overview: ![Power BI](path/to/image1.png)
-
-Streamlit Forecasting Interface: ![Streamlit App](path/to/image2.png)
-
-AI Chatbot Interaction: ![AI Chatbot](path/to/image3.png)
+***
 
 👥 Team
 This project was collaboratively developed by:
