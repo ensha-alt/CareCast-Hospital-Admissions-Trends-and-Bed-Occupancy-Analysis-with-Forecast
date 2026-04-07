@@ -89,6 +89,9 @@ If you find this project helpful, please consider giving it a ⭐!
 3. Update the `git clone` link with your actual GitHub username/URL.
 4. Replace the placeholder image paths under the **Dashboards & Previews** section with the actual paths to your screenshots once you upload them to your repo.
 
+URL of streamlit application:
+https://healthcare-analytics-academic-project.streamlit.app/
+
 Let me know if you need to add any specific installation commands or file names to the setup section!
 
 Contributed by:
